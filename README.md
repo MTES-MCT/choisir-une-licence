@@ -1,6 +1,6 @@
 # TL;DR
 
- - il est légalement obligatoire à partir du 7 octobre que le code des projets de la fabrique soit open source
+ - il est légalement obligatoire à partir du 7 octobre 2018 que le code des projets de la fabrique soit open source
  - la politique de contribution DINSIC est [dispo](https://disic.github.io/politique-de-contribution-open-source/). 
  - votre projet doit à minima:
   - choisir une license. En prendre une parmi celles dispo sur [data.gouv.fr/fr/licences](https://www.data.gouv.fr/fr/licences)
@@ -10,7 +10,7 @@
 
 # Contexte
 
-A partir du 7 octobre: tout projet public (porté par les ministères, ou les collectivités de plus de 3500 hab) doit être open source. 3 exceptions:
+A partir du 7 octobre 2018 : tout projet public (porté par les ministères, ou les collectivités de plus de 3500 hab) doit être open source. 3 exceptions:
  - secret (industriel, prop)
  - sécurité (des personnes physiques et du SI)
  - protection de la fraude
@@ -28,7 +28,7 @@ Le but pour eux c'est maintenant de la faire infuser dans la culture des minist�
   - s'adresse aux développeurs, cherche à valoriser les compétences techniques et montrer de la reconnaissance auprès de ceux déjà impliqués dans des communautés.
   - un projet doit a minima:
    - choisir une license
-   - ouvrir son code (obligation légale à partir du 7 octobre)
+   - ouvrir son code (obligation légale à partir du 7 octobre 2018)
    - dire qui est mainteneur (pour avoir un point de contact)
 
 # Choisir une license
